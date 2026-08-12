@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "Copy of JalDrishti-Chandigarh",
+  "description": "Civic-tech platform for monsoon flood resilience in Chandigarh."
+}
